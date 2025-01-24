@@ -1,13 +1,65 @@
 # Hunter x Hunter manga downloader
 
-## How to use:
+## How to setup:
 
--   git clone https://github.com/orozcoh/HxH_WebScraping.git
--   cd HxH_WebScraping
+### 1. Clone GitHub repo
 
--   Create virtual environment: $ python3 -m virtualenv venv
--   source venv/bin/activate
--   pip install -r requirements.txt
+```
+git clone https://github.com/orozcoh/manga-scraping.git
+```
 
--   python3 ./src/HxH_WebScraping.py 
+### 2. Move to "manga-scraping" folder
 
+```
+cd manga-scraping
+```
+
+### 3. Create virtual environment
+
+```
+python3 -m virtualenv venv
+```
+
+### 4. Activate virtual environment
+
+```
+source venv/bin/activate
+```
+
+### 5. Install requirements
+
+```
+pip install -r requirements.txt
+```
+
+### 6. Execute manga-scraping script
+
+```
+python3 ./src/manga-scraping.py
+```
+
+### 7. Deactivate virtual environment
+
+```
+deactivate
+```
+
+## After install use:
+
+### Activate environment
+
+```
+source venv/bin/activate
+```
+
+### Execute script
+
+```
+python3 ./src/manga-scraping.py
+```
+
+### Deactivate environment
+
+```
+deactivate
+```
