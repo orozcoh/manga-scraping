@@ -1,4 +1,4 @@
-# Hunter x Hunter manga downloader
+# Manga Scraper
 
 ## How to setup:
 
