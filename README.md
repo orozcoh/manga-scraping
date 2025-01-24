@@ -63,3 +63,12 @@ python3 ./src/manga-scraping.py
 ```
 deactivate
 ```
+
+### Git config
+
+```
+git config user.name "Your Name"
+git config user.email "your.email@example.com"
+
+git config --list
+```
